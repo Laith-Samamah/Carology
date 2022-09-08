@@ -7,7 +7,6 @@ Theme name : Astra.
 
 Plugins used : Woocommerce/Akismet Anti-Spam/All in One SEO/Starter Templates/Elementor/Force Authentification Before Checkout for WooCommerce/Ultimate Member/Weglot Translate/TI WooCommerce Wishlist/Wordfence Security
 
-Trello link: https://trello.com/invite/b/H4ixJe14/a211c409edb601707833c8f3d92c2950/e-comerce-project
 
 ### Task attachments
 
